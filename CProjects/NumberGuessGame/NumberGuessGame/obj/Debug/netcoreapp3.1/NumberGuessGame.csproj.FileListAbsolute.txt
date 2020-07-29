@@ -1,0 +1,13 @@
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.exe
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.deps.json
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.runtimeconfig.json
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.runtimeconfig.dev.json
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.dll
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.pdb
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.csprojAssemblyReference.cache
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.AssemblyInfoInputs.cache
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.AssemblyInfo.cs
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.dll
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.pdb
+C:\Users\anjel\CProjects\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.genruntimeconfig.cache
